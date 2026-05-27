@@ -1,0 +1,14 @@
+{
+  "name": "code-style-check-marketplace",
+  "owner": {
+    "name": "warku123"
+  },
+  "plugins": [
+    {
+      "name": "code-style-check",
+      "description": "Code style self-review — semantic rules that Checkstyle cannot enforce",
+      "category": "development",
+      "source": "./skills/code-style-check"
+    }
+  ]
+}
